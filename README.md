@@ -19,7 +19,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 <table>
   <tr>
     <td align="center">
-      <a href="#" title="defina o título do link">
+      <a href="https://github.com/knfnsc" title="defina o título do link">
         <img src="https://avatars.githubusercontent.com/u/140078830?v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>knfnsc</b>
@@ -27,7 +27,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
       </a>
     </td>
     <td align="center">
-      <a href="#" title="defina o título do link">
+      <a href="https://github.com/1kfkas" title="defina o título do link">
         <img src="https://avatars.githubusercontent.com/u/48663613?v=4" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
         <sub>
           <b>1kfkas</b>
