@@ -10,9 +10,9 @@ O Martin é uma projeto que tem como principal objetivo facilitar a criação e 
 ## 🔨 Ajustes e melhorias
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 <ul>
-  <li>Editor de texto especializado</li>
-  <li>Grafo de eventos</li>
-  <li>Armazenagem de roteiros</li>
+  <li>Editor de texto especializado;</li>
+  <li>Grafo de eventos;</li>
+  <li>Armazenagem de roteiros.</li>
 </ul>
 
 ## 🤝 Colaboradores
